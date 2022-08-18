@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Достопримечательности США</title>
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+  <h1>Первый заголовок</h1>
+    <img src="images/waterfall3" alt="Огненный водопад">
+    <p>Природные достопримечательности США</p>
+    <ul>
+    <li>Огненный водопад</li>
+    </ul>
+    <p>Horsetail Fall — водопад в Йосемитском национальном парке в Калифорнии, США. Расположен на восточном склоне горы Эль-Капитан.
+Общая высота водопада составляет 650 метров. Водопад был открыт Джозефом Реддефордом Уолкером в 1833 году.</p>
+<a>Horsetail fall</a>
+<a href= "https://ru.wikipedia.org/wiki/Лошадиный_Хвост_(водопад)#:~:text=Horsetail%20Fall)%20—%20водопад%20в%20Йосемитском,Реддефордом%20Уолкером%20в%201833%20году.">Horsetail fall<a/>
+  </body>
+</html> 
